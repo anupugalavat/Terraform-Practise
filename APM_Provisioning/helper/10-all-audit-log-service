@@ -1,0 +1,3 @@
+Defaults:%root log_output
+Defaults iolog_dir = /var/log/sudo-io
+Defaults iolog_file = [LANDSCAPE]_[COMPONENT]_sudo-%{user}-%Y%m%d-%H%M%S
